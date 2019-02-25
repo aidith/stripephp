@@ -1,1 +1,1 @@
-# stripephp
+# Create custom connect account using stripe API and transfer fund from stripe platform to customer bank/card using Payouts.
